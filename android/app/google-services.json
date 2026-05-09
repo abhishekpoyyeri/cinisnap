@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744755002417",
+    "project_id": "cinesnap-social-99555c08",
+    "storage_bucket": "cinesnap-social-99555c08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744755002417:android:c9cc364d61af108be96910",
+        "android_client_info": {
+          "package_name": "com.cinesnap.cinesnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7vvjRrobxDoho7V8FbETJKA1uDsF4rJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
